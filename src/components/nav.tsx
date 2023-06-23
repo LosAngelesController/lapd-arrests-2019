@@ -6,17 +6,17 @@ const navigationPayroll = [
   },
   {
     name: "2020",
-    url: "https://lapd-arrests-2020.vercel.app/",
+    url: "https://2020arrests.lacontroller.io/",
     newtab: true,
   },
   {
     name: "2021",
-    url: "https://lapd-arrests-2021.vercel.app/",
+    url: "https://2021arrests.lacontroller.io/",
     newtab: true,
   },
   {
     name: "2022",
-    url: "https://lapd-arrests-2022.vercel.app/",
+    url: "https://2022arrests.lacontroller.io/",
     newtab: true,
   },
   {
