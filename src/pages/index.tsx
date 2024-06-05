@@ -1030,20 +1030,20 @@ const Home: NextPage = () => {
           <meta
             name="twitter:image"
             key="twitterimg"
-            content="https://2019arrests.lacontroller.io/lapd-arrests-2019.png"
+            content="https://2019arrests.lacontroller.app/lapd-arrests-2019.png"
           ></meta>
           <meta name="description" content="LAPD Arrests 2019." />
 
           <meta
             property="og:url"
-            content="https://2019arrests.lacontroller.io"
+            content="https://2019arrests.lacontroller.app"
           />
           <meta property="og:type" content="website" />
           <meta property="og:title" content="LAPD Arrests 2019 | Map" />
           <meta property="og:description" content="LAPD Arrests 2019." />
           <meta
             property="og:image"
-            content="https://2019arrests.lacontroller.io/lapd-arrests-2019.png"
+            content="https://2019arrests.lacontroller.app/lapd-arrests-2019.png"
           />
         </Head>
 

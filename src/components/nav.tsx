@@ -42,22 +42,22 @@ const navigation: any = [
   },
   {
     name: "2020",
-    href: "https://2020arrests.lacontroller.io/",
+    href: "https://2020arrests.lacontroller.app/",
     target: "_blank",
   },
   {
     name: "2021",
-    href: "https://2021arrests.lacontroller.io/",
+    href: "https://2021arrests.lacontroller.app/",
     target: "_blank",
   },
   {
     name: "2022",
-    href: "https://2022arrests.lacontroller.io/",
+    href: "https://2022arrests.lacontroller.app/",
     target: "_blank",
   },
   {
     name: "41.18",
-    href: "https://4118arrests.lacontroller.io/",
+    href: "https://4118arrests.lacontroller.app/",
     target: "_blank",
   },
   {
