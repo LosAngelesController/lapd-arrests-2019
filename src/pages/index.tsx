@@ -187,9 +187,9 @@ const Home: NextPage = () => {
     fetchMapboxConfig();
   }, []);
 
-  useEffect(() => {
-    console.log("arrestData updated:", arrestData);
-  }, [arrestData]);
+  // useEffect(() => {
+  //   console.log("arrestData updated:", arrestData);
+  // }, [arrestData]);
 
   //template name, this is used to submit to the map analytics software what the current state of the map is.
   var mapname = "LAPD-Arrests-2019";
@@ -741,7 +741,7 @@ const Home: NextPage = () => {
             };
           });
 
-          console.log("filteredData", filteredData);
+          // console.log("filteredData", filteredData);
 
           var arrestPoint: any = map.getSource("arrest-point");
           arrestPoint.setData(e.features[0].geometry);
